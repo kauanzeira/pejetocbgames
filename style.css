@@ -1,0 +1,210 @@
+body {
+    background-image: url("img/Rectangle 1.png");
+    background-size: 100%;
+    background-attachment: fixed;
+    margin: 0px;
+}
+.pesquisar {
+    /* justify-content: center; */
+    height: 50px;
+    width: 600px;
+    background-color: #143094;
+    border-radius: 0% 0% 100% 100%;
+    margin: 0px auto;
+}
+header {
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    background-color: #423E3E;
+
+}
+.tamanhoelargura {
+    width: 1280px;
+    height: 65px;
+    position: fixed;
+}
+.localizaçãologo {
+    position: fixed; 
+	left: 10px; 
+	top: -29px;
+    width: 100px;
+    height: 120px;
+}
+.localizaçãosobre {
+    position: fixed; 
+	left: 100px; 
+	top: 40px;
+    width: 15px;
+    height: 15px;
+}
+.localizaçãoperfil {
+    position: fixed; 
+	left: 1220px; 
+	top: 14px;
+    width: 39px;
+    height: 39px;
+}
+.localizaçãomundo {
+    position: fixed; 
+	left: 1140px; 
+	top: 10px;
+    width: 49px;
+    height: 49px;
+}
+.localizaçãoconfig {
+    position: fixed; 
+	left: 1060px; 
+	top: 13px;
+    width: 65px;
+    height: 49px;
+}
+.localizaçãonotificação {
+    position: fixed; 
+	left: 980px; 
+	top: 19px;
+    width: 45px;
+    height: 29px;
+}
+.localizaçãolinha1 {
+    position: fixed; 
+	left: 1027px; 
+	top: 32px;
+    width: 45px;
+    height: 2px;
+    rotate: 90deg;
+}
+.localizaçãolinha2 {
+    position: fixed; 
+	left: 1100px; 
+	top: 32px;
+    width: 45px;
+    height: 2px;
+    rotate: 90deg;
+}
+.localizaçãolinha3 {
+    position: fixed; 
+	left: 1180px; 
+	top: 32px;
+    width: 45px;
+    height: 2px;
+    rotate: 90deg;
+}
+.h1is{
+    color:white;
+    font-family: "Courier New";
+    position: absolute; 
+    left: 100px;
+    top: 120px;
+}
+.divpreto{
+position: absolute; 
+background-color: black;
+left: 100px; 
+top: 200px;
+width:1000px;
+height: 355px;
+}
+.h1isc {
+    color:white;
+    font-family: "Courier New";
+    position: absolute; 
+    left: 50px;
+    top: 20px;
+}
+.divcinzains{
+    position: absolute; 
+    background-color: rgb(73, 71, 71);
+    border-radius: 5px;
+    left: 50px; 
+    top: 70px;
+    width:500px;
+    height: 40px;  
+}
+.h1senha {
+    color:white;
+    font-family: "Courier New";
+    position: absolute; 
+    left: 50px;
+    top: 130px;
+}
+.divcinzasenha{
+    position: absolute; 
+    background-color: rgb(73, 71, 71);
+    border-radius: 5px;
+    left: 50px; 
+    top: 180px;
+    width:500px;
+    height: 40px;
+}
+.divazul1{
+    position: absolute; 
+    background-color: rgb(26, 10, 108);
+    border-radius: 5px;
+    left: 100px; 
+    top: 290px;
+    width:200px;
+    height: 50px;
+
+}
+.divazul2{
+    position: absolute; 
+    background-color: rgb(26, 10, 108);
+    border-radius: 5px;
+    left: 350px; 
+    top: 290px;
+    width:200px;
+    height: 50px;
+}
+.h41 {
+    color:white;
+    font-family: "Candara";
+    position: absolute; 
+    left: 41px;
+    top: -5px;
+}
+.h42 {
+    color:white;
+    font-family: "Candara";
+    position: absolute; 
+    left: 46px;
+    top: -5px;
+}
+.qrcode{
+    position: fixed; 
+	left: 820px; 
+	top: 290px;
+    width: 205px;
+    height: 209px;
+}
+.textblu{
+    color:rgb(72, 49, 205);
+    font-family: "Candara";
+    position: absolute; 
+    left: 751px;
+    top: 40px;
+}
+/*
+.cabeçalho {
+    width: 100%;
+    height: 5rem;
+  margin: 0px;
+  background-color: #423E3E;
+  display: flex;
+  justify-content: center;
+  
+  
+}
+ .pesquisa {
+    width: 15rem;
+    height: 15rem;
+  background-color: #143094;
+  
+} 
+.pesquisa2 {
+    width: 855px;
+  height: 55px;
+  background-color:  #143094 ;
+  border-radius: 0% 0% 60% 60%;
+}
+*/
